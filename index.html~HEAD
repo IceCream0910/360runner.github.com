@@ -41,7 +41,7 @@
     <section class="hero-section overflow-hidden">
         <div class="hero-slider owl-carousel">
             <div class="hero-item set-bg d-flex align-items-center justify-content-center text-center" data-setbg="img/slider-bg-1.jpg">
-                <div class="container" style="margin:10px;">
+                <div class="container">
                     <strong style="color:white; font-size: 35px; margin-bottom: 20px;">미래와의 조우</strong>
                     <Br>
                     <Br>
@@ -62,7 +62,7 @@
 
 
     <!-- Intro section -->
-    <section class="intro-section " style="margin:10px;">
+    <section class="intro-section ">
         <div class="container ">
             <div class="row ">
                 <div class="col-md-4 ">
@@ -93,8 +93,8 @@
     <section class="blog-section spad ">
         <div class="container ">
             <div class="row ">
-                <div class="col-xl-9 col-lg-8 col-md-7 " style="margin:10px;">
-                    <div class="section-title text-white " style="margin:10px;">
+                <div class="col-xl-9 col-lg-8 col-md-7 ">
+                    <div class="section-title text-white ">
                         <h2>지구에서 받은 최근 뉴스</h2>
                     </div>
 
@@ -121,23 +121,24 @@
     <section class="intro-video-section set-bg d-flex align-items-end " data-setbg="./img/promo-bg.jpg ">
         <a href="https://youtube.com/embed/uFsGy5x_fyQ " class="video-play-btn video-popup " onclick="alert('Trailer Serial을 360Factory에서 아직 등록하지 않았습니다. 나중에 다시 확인해주세요.');"><img src="img/icons/solid-right-arrow.png " alt="# "></a>
         <div class="container ">
-            <div class="video-text " style="margin:10px;">
+            <div class="video-text ">
                 <h2>TRAILER</h2>
                 <p>우리가 수립한 계획을 대외로 송출하기 위해 영상을 제작했습니다. 여러분의 도움이 필요합니다.</p>
             </div>
-            <br>
         </div>
     </section>
     <!-- Intro section end -->
 
 
     <!-- Featured section -->
-    <section class="featured-section " style="margin:20px; height: 400px;">
+    <section class="featured-section ">
         <div class="featured-bg set-bg " data-setbg="img/featured-bg.jpg "></div>
         <div class="featured-box ">
-            <h2 style="margin-top:5px;">ARE YOU READY?</h2>
-            <p>준비 되었습니까?<br>P.S. 행운을 빕니다!</p>
-        </div>
+            <div class="text-box ">
+                <div class="top-meta ">360 Station <a href=" ">송신 본부</a></div>
+                <h3>READY FOR THE GAME TO START</h3>
+                <p>이 글은 송신 테스트를 위한 글입니다. <br>P.S. GOOD RUCK!</p>
+            </div>
         </div>
     </section>
     <!-- Featured section end-->
